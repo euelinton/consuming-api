@@ -8,7 +8,6 @@ Criar um api
 - [x] Criar uma rota para acessar a API
 - [x] Servir a API
 - [x] Habilitar o CORS
-- [x] Habilitar o nodemon para reiniciar o server
 
 ## Frontend
 
@@ -22,6 +21,6 @@ Comsumir API
 
 Comsumir API uma API de terceiros
 - [x] Escolher a API: jsonplaceholder (https://jsonplaceholder.typicode.com/users)
-- [] Usar axios
-- [] Semelhanças entre axios e fetch
-- [] Usar try/catch
+- [x] Usar axios
+- [x] Semelhanças entre axios e fetch
+- [x] Usar try/catch
